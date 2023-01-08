@@ -1,0 +1,134 @@
+
+
+
+body {
+    background-color: #344a72;
+    font-family: "Roboto", sans-serif;
+    
+  }
+  
+  .signup-box {
+    width: 360px;
+    height: 570px;
+    margin: auto;
+    background-color: #f1f6fe;
+    border-radius: 3px;
+    text-align: center;
+  }
+  
+  .login-box {
+    width: 380px;
+    height: 300px;
+    margin-top: 250px;
+    margin-left: 580px;
+    border-radius: 5px;
+    animation: 10s easein;
+    background-color: #f1f6fe;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .login-box h1 {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    padding: 8px 20px;
+    margin-top: 5px;
+    background: #e7f1fd;
+    color: #106eea;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+  }
+  
+
+  .signup-box h1 {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    padding: 8px 20px;
+    margin-top: 5px;
+    background: #e7f1fd;
+    color: #106eea;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+  }
+
+  .backtohome {
+    height: 40px;
+    line-height: 0;
+    width: 130px;
+    border: 2px solid black;
+    margin-right: 50px;
+    float: right;
+    background-color: #49c1a2;
+    padding: 7px;
+    
+  }
+  .backtohome a{
+    text-decoration: none;
+    color: white;
+  }
+  .backtohome a:hover{
+    color: #3b8af2;
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+  }
+
+  input[type="button"]:hover{
+    background-color:#106eea;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #49c1a2;
+  }
+  
+  
